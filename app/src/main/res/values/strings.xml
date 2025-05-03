@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MovieAdInterviewTest</string>
+    <string name="liked_videos">لایک شده ها</string>
+    <string name="users">کاربرها</string>
+    <string name="favorite">ویدیو های لایک شده</string>
 </resources>

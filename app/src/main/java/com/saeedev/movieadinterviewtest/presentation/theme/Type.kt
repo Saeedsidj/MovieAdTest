@@ -1,4 +1,4 @@
-package com.saeedev.movieadinterviewtest.ui.theme
+package com.saeedev.movieadinterviewtest.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
